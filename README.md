@@ -19,4 +19,6 @@
   不同消费者消费的消息不同，每个消息只会被一个消费者消费
 * request-response 非主要
 
-
+## 消息种类
+* MapMessage 强类型 键值对
+* TextMessage 普通文本消息
